@@ -3,7 +3,7 @@
 ## 🎯 **Project: Building the Transformer from Scratch**  
 _(Inspired by the "Attention Is All You Need" Paper)_  
 
-I implemented the **entire Transformer architecture from scratch**, following the principles outlined in the **"Attention Is All You Need"** paper.  
+I implemented the **entire Transformer architecture from scratch**, following the principles outlined in the **"Attention Is All You Need"** paper.   
 
 🔹 **Key Highlights:**  
 ✅ Followed **Umar Jamil's video series** for guidance.  
